@@ -1,0 +1,6 @@
+id=motorola_volume_steps
+name=Motorola 25-Step Volume Fix
+version=v1.0
+versionCode=1
+author=username227
+description=Safely increases media volume granularity to 25 steps for the Motorola Phones.
